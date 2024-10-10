@@ -24,3 +24,6 @@
 
 ![image](https://github.com/user-attachments/assets/8711f48b-1b03-497e-82c2-7725472a6269)
 1.7 - Li donem a Finalizar
+
+![image](https://github.com/user-attachments/assets/fd7c2d27-1e4a-48ae-a97e-da6eba89d45f)
+1.8 - S'executa la tasca.
