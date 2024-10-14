@@ -23,10 +23,14 @@ Seleccionem Al iniciar session i li donem a Aceptar.
 
 Anem a Acciones i li donem a Nueva.
 
-![image](https://github.com/user-attachments/assets/dba0f89f-c9d4-44fb-bbbc-bb37d4977b62)
+![image](https://github.com/user-attachments/assets/3441a246-36db-4e92-a1a2-1d5aea540720)
 
 Seleccionem el programa (Microsoft Edge), a argumentos fiquem la web del institut i li donem a Aceptar.
 
 ![image](https://github.com/user-attachments/assets/6e98d096-3c01-4366-a338-696c8aec244a)
 
 Sí
+
+![image](https://github.com/user-attachments/assets/9a48a0f4-641e-48ec-a8c4-ebf377485b4d)
+
+Li donem a Aceptar.
