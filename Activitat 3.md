@@ -34,3 +34,7 @@ Sí
 ![image](https://github.com/user-attachments/assets/9a48a0f4-641e-48ec-a8c4-ebf377485b4d)
 
 Li donem a Aceptar.
+
+![image](https://github.com/user-attachments/assets/abe3f1ba-f2ca-4176-b3f5-4ed934fb8a00)
+
+RESULTAT
