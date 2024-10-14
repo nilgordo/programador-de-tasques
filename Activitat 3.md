@@ -12,16 +12,21 @@
 Fiquem un nom i anem a desencadenadores.
 
 ![image](https://github.com/user-attachments/assets/ac672a58-ea8a-47de-a170-eeab1f793bb7)
+
 Fem click a Nuevo.
 
 ![image](https://github.com/user-attachments/assets/ae831f0a-580c-42b0-bf47-669553b3b4a8)
+
 Seleccionem Al iniciar session i li donem a Aceptar.
 
 ![image](https://github.com/user-attachments/assets/82476094-9e60-494e-bbd5-f37af18c54c8)
+
 Anem a Acciones i li donem a Nueva.
 
 ![image](https://github.com/user-attachments/assets/dba0f89f-c9d4-44fb-bbbc-bb37d4977b62)
+
 Seleccionem el programa (Microsoft Edge), a argumentos fiquem la web del institut i li donem a Aceptar.
 
 ![image](https://github.com/user-attachments/assets/6e98d096-3c01-4366-a338-696c8aec244a)
+
 Sí
