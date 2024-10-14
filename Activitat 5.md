@@ -8,4 +8,8 @@
 
 ![image](https://github.com/user-attachments/assets/99d13c5d-1e60-42f6-a2fb-807c53d08d6b)
 
-Fiquem el nom, seleccionem l'opció de Ejecutar tanto si el usuario inició sessión como si no, seleccionem Configurar para: Windows Server 2016
+Fiquem el nom, seleccionem l'opció de Ejecutar tanto si el usuario inició sessión como si no, seleccionem Configurar para: Windows Server 2016.
+
+![image](https://github.com/user-attachments/assets/d2770c86-b7ac-436e-a098-c11ad634cfe2)
+
+Entrem a Desencadenadores, li donem a Nuevo, seleccionem l'hora i li donem a Aceptar.
