@@ -16,8 +16,12 @@ Entrem a Desencadenadores, li donem a Nuevo, seleccionem l'hora i li donem a Ace
 
 ![image](https://github.com/user-attachments/assets/22f1963f-369d-4210-98fe-f77c9018d8ca)
 
-
+Anem a Acciones, Nueva, en Programa seleccionem PowerShell, a argumentos fiquem: -NoProfile -Command "Clear-RecycleBin -Force" i li donem a Aceptar.
 
 ![image](https://github.com/user-attachments/assets/04873784-84dd-468b-a494-70cd407743a2)
 
-Fiquem la contrasenya i li donem a Aceptar
+Fiquem la contrasenya i li donem a Aceptar.
+
+![image](https://github.com/user-attachments/assets/905befea-36ac-48f9-9a0e-e96f1eb71b71)
+
+Resultat
