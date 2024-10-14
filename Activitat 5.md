@@ -13,3 +13,11 @@ Fiquem el nom, seleccionem l'opció de Ejecutar tanto si el usuario inició sess
 ![image](https://github.com/user-attachments/assets/d2770c86-b7ac-436e-a098-c11ad634cfe2)
 
 Entrem a Desencadenadores, li donem a Nuevo, seleccionem l'hora i li donem a Aceptar.
+
+![image](https://github.com/user-attachments/assets/22f1963f-369d-4210-98fe-f77c9018d8ca)
+
+
+
+![image](https://github.com/user-attachments/assets/04873784-84dd-468b-a494-70cd407743a2)
+
+Fiquem la contrasenya i li donem a Aceptar
