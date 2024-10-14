@@ -7,6 +7,8 @@
 
 ![image](https://github.com/user-attachments/assets/ae8a5fca-3797-42e1-9d01-2a86f91a7c22)
 
+![image](https://github.com/user-attachments/assets/c21a3865-8893-43d5-850c-b06349737e41)
+
 Fiquem un nom i anem a desencadenadores.
 
 ![image](https://github.com/user-attachments/assets/ac672a58-ea8a-47de-a170-eeab1f793bb7)
